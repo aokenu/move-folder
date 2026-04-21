@@ -4,4 +4,4 @@ import shutil
 import time
 #get the unique variable to defferentiate date
 date=input("enter date: yyyymmdd: ")
-path1 = "C:/python_work
+path1 = "C:/python_work/Billingsample/Billingsample/"
