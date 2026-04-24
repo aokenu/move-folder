@@ -9,3 +9,4 @@ path1 = "C:/python_work/Billingsample/Billingsample/"
 
 #pad the full source path where the original file exist
 src_folder=f"{path1}{date}"
+dst_folder = 
