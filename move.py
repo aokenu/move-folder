@@ -12,4 +12,4 @@ src_folder=f"{path1}{date}"
 dst_folder = f'C:/python_work/sample/3line Card management Limited_{date}_155959/ '
 print(src_folder)
 
-#make a list of the
+#make a list of the content of the source path
