@@ -13,4 +13,4 @@ dst_folder = f'C:/python_work/sample/3line Card management Limited_{date}_155959
 print(src_folder)
 
 #make a list of the content of the source path
-file_names = os.listdir
+file_names = os.listdir(src_folder)
