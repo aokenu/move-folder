@@ -14,4 +14,4 @@ print(src_folder)
 
 #make a list of the content of the source path
 file_names = os.listdir(src_folder)
-print()
+print(file_names)
