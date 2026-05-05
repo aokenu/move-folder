@@ -16,3 +16,4 @@ print(src_folder)
 file_names = os.listdir(src_folder)
 print(file_names)
 #loop through the list to move files with a unique pattern (src_folder + "/3*") to the destination path (3line)
+for 
