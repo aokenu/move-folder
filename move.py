@@ -19,3 +19,4 @@ print(file_names)
 for filename in file_names[:]:
     pattern = src_folder + "/3*"
     for file in glob.iglob(pattern, recursive=True):
+    # extract file name form file path
