@@ -21,4 +21,4 @@ for filename in file_names[:]:
     for file in glob.iglob(pattern, recursive=True):
     # extract file name form file path
             file_name = os.path.basename(file)
-            shutil.move
+            shutil.move(file, dst_folder + file_name)
