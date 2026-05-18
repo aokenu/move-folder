@@ -23,3 +23,7 @@ for filename in file_names[:]:
             file_name = os.path.basename(file)
             shutil.move(file, dst_folder + file_name)
             print('move:', file)
+
+#repeat the flow above
+
+            
