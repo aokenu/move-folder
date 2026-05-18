@@ -22,3 +22,4 @@ for filename in file_names[:]:
     # extract file name form file path
             file_name = os.path.basename(file)
             shutil.move(file, dst_folder + file_name)
+            print('move:', file)
