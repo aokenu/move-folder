@@ -27,3 +27,4 @@ for filename in file_names[:]:
 #repeat the flow above
 
 path1 = = "C:/python_work/Billingsample/Billingsample/"         
+#path2="_040219"
