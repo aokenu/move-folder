@@ -31,3 +31,4 @@ path1 = = "C:/python_work/Billingsample/Billingsample/"
 src_folder=f"{path1}{date}"
 dst_folder = f'C:/python_work/sample/9 Payment Service Bank_{date}_155959/ '
 print(src_folder) 
+file_names
