@@ -47,4 +47,4 @@ path1 = "C:/python_work/Billingsample/Billingsample/"
 src_folder=f"{path1}{date}"
 dst_folder = f'C:/python_work/sample/AB Microfinance bank_{date}_155959/ '
 print(src_folder)
-file_names
+file_names = os.listdir(src_folder)
