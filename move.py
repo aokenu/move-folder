@@ -33,4 +33,4 @@ dst_folder = f'C:/python_work/sample/9 Payment Service Bank_{date}_155959/ '
 print(src_folder) 
 file_names = os.listdir(src_folder)
 print(file_names)
-#loop through the list to move files with a unique pattern (src_folder + "/3*")
+#loop through the list to move files with a unique pattern (src_folder + "/3*") to the
