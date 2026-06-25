@@ -37,4 +37,6 @@ print(file_names)
 for file_name in file_names[:]:
       pattern = src_folder + "/9*"
       for file in glob.iglob(pattern, recursive=True):
+      # extract file name form file path
+               
             
