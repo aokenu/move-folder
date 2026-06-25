@@ -36,4 +36,4 @@ print(file_names)
 #loop through the list to move files with a unique pattern (src_folder + "/3*") to the destination path (9 mobile)
 for file_name in file_names[:]:
       pattern = src_folder + "/9*"
-      for file in glob.iglob()
+      for file in glob.iglob(pattern, recursive=True)
