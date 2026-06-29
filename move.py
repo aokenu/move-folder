@@ -49,3 +49,5 @@ dst_folder = f'C:/python_work/sample/AB Microfinance bank_{date}_155959/ '
 print(src_folder)
 file_names = os.listdir(src_folder)
 print(file_names)
+
+#loop through
