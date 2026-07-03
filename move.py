@@ -42,4 +42,4 @@ for file_name in file_names[:]:
                shutil.move(file, dst_folder + file_name)
                print('move:', file)
     
-path1 
+path1 = "C:/python_work/Billingsample/Billingsample/"
