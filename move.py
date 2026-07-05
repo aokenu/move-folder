@@ -43,3 +43,4 @@ for file_name in file_names[:]:
                print('move:', file)
     
 path1 = "C:/python_work/Billingsample/Billingsample/"
+#path2="_040219"
