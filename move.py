@@ -45,4 +45,4 @@ for file_name in file_names[:]:
 path1 = "C:/python_work/Billingsample/Billingsample/"
 #path2="_040219"
 src_folder=f"{path1}{date}"
-dst_folder
+dst_folder = f'C:/python_work/sample
