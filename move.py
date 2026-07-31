@@ -54,4 +54,3 @@ print(file_names)
 #file_names = os.listdir(src_folder)
 #print('move:', file)
 
-#loop through the list to move files with with a unique pattern (src_folder + "/3*") 
